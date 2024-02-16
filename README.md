@@ -22,7 +22,7 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Language/assets/155840444/63fb379b-61ed-49c5-8bd3-c7c178bae1a6)
 
-5 - Após criado com sucesso vá para o site https://language.cognitive.azure.com e acesse com suas credenciais da Microsoft.
+5 - Após criado com sucesso vá para https://language.cognitive.azure.com e acesse com suas credenciais da Microsoft.
 
 6- Ao logar irá aparecer uma tela para preenchimento das informações. Caso o recurso do passo 4 tenha sido criado com sucesso, já será reconhecido como uma das opções.
 
